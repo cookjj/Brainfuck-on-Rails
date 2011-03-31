@@ -12,7 +12,7 @@ Then download your favourite Brainfuck compiler/interpreter. I recommend the one
 
 ## Why Brainfuck?
 
-The main reason of porting RoR to Brainfuck was obviously that *BF scales out-of-the-box*.
+The main reason of porting RoR to Brainfuck was obviously that **BF scales out-of-the-box**.
 
 Did you know that Facebook's "poke" is implemented using BF?
 
@@ -24,10 +24,10 @@ The footprint of the framework is almost inexistant. It just needs 20MB of memor
 
 ## Convention over configuration
 
-BoR doesn't need *any* configuration. We took the best decisions for you. If you don't agree, feel free to fork the project, but I will ignore your pull-requests, bitch.
+BoR doesn't need **any** configuration. We took the best decisions for you. If you don't agree, feel free to fork the project, but I will ignore your pull-requests, bitch.
 
 ## Tests
 
 Something that really annoyed me of RoR was _testing_...BDD, TDD, cucumbers, rats... are your serious? We sent a man to the moon with fucking prehistoric computers and we still have to test our web applications?
 
-BoR *doesn't need tests*, the framework doesn't let you shoot your foot giving you always detailed error messages on compile time.
+BoR **doesn't need tests**, the framework doesn't let you shoot your foot giving you always detailed error messages on compile time.
